@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: redis-container
-        image: gcr.io/my-project-56889-badawi/redis_db
+        image: redis
         ports:
         - containerPort: 80
