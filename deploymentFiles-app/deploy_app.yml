@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: ahmedbadawi/finalproject
+        image: ahmedbadawi/finalproject:${BUILD_NUMBER}
         ports:
         - containerPort: 80
         envFrom:
