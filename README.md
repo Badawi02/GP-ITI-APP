@@ -24,7 +24,7 @@ A brief description of what this project does and who it's for
 - Download The Code
 
 ```bash
-  git clone https://github.com/Badawi02/GCP_Project.git
+  git clone https://github.com/Badawi02/GP-ITI-Infa.git
 ```
 - Setup your GCP account, create new project and change the value of "project_name" variable
 - Build the Infrastructure
