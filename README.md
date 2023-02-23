@@ -1,5 +1,5 @@
 
-# Google Cloud Infrastructure project
+# Deploy application on K8S cluster using CI/CD jenkins pipline
 
 A brief description of what this project does and who it's for
 
